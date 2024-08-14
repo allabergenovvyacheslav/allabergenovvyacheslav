@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @allabergenovvyacheslav
 
-<img src=https://github.com/user-attachments/assets/4cebdf7e-7a52-4b83-9e09-d450610003bc alt='The Unlimited' width='300'>
+<img src=https://github.com/user-attachments/assets/4cebdf7e-7a52-4b83-9e09-d450610003bc alt='The Unlimited' width='200'>
 
 # my tools
 
