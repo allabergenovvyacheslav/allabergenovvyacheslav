@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @allabergenovvyacheslav
 
-<img src=https://github.com/allabergenovvyacheslav/Vyacheslav_Allabergenov/blob/main/amazoncognito.svg alt='The Unlimited' width='400'>
+<img src=https://github.com/user-attachments/assets/4cebdf7e-7a52-4b83-9e09-d450610003bc alt='The Unlimited' width='300'>
 
 # my tools
 
 ![Static Badge](https://img.shields.io/badge/py-python-blue?style=plastic&logo=python)
+
 
